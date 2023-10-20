@@ -1,0 +1,53 @@
+{
+  "title": "Steinhardt's Mission",
+  "id": "helloworld",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "11.313",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "2.3.1",
+  "lastPlayed": "Fri Oct 20 2023 01:19:13 GMT-0600 (Mountain Daylight Time)",
+  "playtime": 84042,
+  "background": "15becaeb4359432a333c36ecc0e3977b.jpg",
+  "packs": [
+    {
+      "label": "Random Features",
+      "type": "Actor",
+      "name": "random-features",
+      "path": "packs/random-features",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "NPC Rewards",
+      "type": "Actor",
+      "name": "npc-rewards",
+      "path": "packs/npc-rewards",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "steinhardts-items",
+      "label": "Steinhardt's Items",
+      "path": "packs/steinhardts-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
